@@ -13,3 +13,6 @@ https://react-passwordgenerator-dante.vercel.app/
 
 https://react-contextapi-dante.vercel.app/
 
+# Theme Switcher
+
+https://react-themeswitch-dante.vercel.app/
