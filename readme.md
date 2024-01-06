@@ -1,4 +1,4 @@
-React course 2023
+React Projects
 # Todo list 
 https://react-todo-dante.vercel.app/
 
